@@ -1,7 +1,5 @@
 
-# Contatore 
-
-![Contatore](assets/img/favicon.ico) 
+# Contatore ![Contatore](assets/img/favicon.ico)
 
 L'applicazione che ti aiuta a portare i conti. 
 
